@@ -16,8 +16,7 @@ Muhammad Rizqi Safaat 21060120140097
 Reyhan Irfan Yahya 21060120140052
 Satyagraha Pakarti Gemilang 21060120140075
 
-=====================================
-Screenshoot
-=====================================
-![WhatsApp Image 2023-12-02 at 01 05 17_aa06c202](https://github.com/hafizhb/genshin_waifu/assets/99695296/6db100c1-c43c-4f47-a8c9-0a71f90ccabe)
-![WhatsApp Image 2023-12-02 at 01 05 18_2e6b52d3](https://github.com/hafizhb/genshin_waifu/assets/99695296/447376ae-0474-41b4-b965-91e3f818d4f5)
+
+**Screenshoot**
+
+![Screenshot 2023-12-02 010841](https://github.com/hafizhb/genshin_waifu/assets/99695296/b2de1b11-d44c-409c-97a2-665c289252ce)
